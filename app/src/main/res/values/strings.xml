@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GridLayoutAppLauncher</string>
+    <string name="action_settings">Settings</string>
+    <string name="some_app">Some app</string>
+    <string></string>
+    <string name="title_activity_settings">Settings Activity</string>
+</resources>
